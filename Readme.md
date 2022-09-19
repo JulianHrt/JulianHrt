@@ -10,9 +10,9 @@ Thesedays i´m learning Web Development at neuefische bootcamp. Nice to meet you
 - [ ] HTML. CSS and Javascript loading... 
 
 **Interested in** 
-- Python
-- Java
-- Blockchain
+- 🐍 Python
+-  Java
+- ⛓️ Blockchain
 
 **How to reach me?**
 - [Instagram](https://instagram.com/julianhrt)
