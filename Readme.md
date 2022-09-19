@@ -1,7 +1,9 @@
 # Aloha, guys! 🦩
 
-My name is Julian. I´m based in the middle of germany. I´m currently work for AOKPLUS as a Perfomancemanager. 
-Thesedays i´m learning Web Development at neuefische bootcamp. Nice to meet you! 
+My name is Julian. I´m based in the middle of germany. I work for the @AOKPLUS as a Perfomancemanager. 
+I´m currently learning Web Development at NeueFische Bootcamp. Nice to meet you! 
+
+## About me
 
 **Skills**
 - [x] Microsoft Visual Basic
@@ -11,13 +13,21 @@ Thesedays i´m learning Web Development at neuefische bootcamp. Nice to meet you
 
 **Interested in** 
 - 🐍 Python
--  Java
+- :coffee: Java
 - ⛓️ Blockchain
+
+**Hobbys**
+* DJing
+* Web Dev
+* Photography & Videoediting
+* Build with Raspi & Python
+* Travel
+* Borussia Dortmund 09 
 
 **How to reach me?**
 - [Instagram](https://instagram.com/julianhrt)
-- [Twitter](https://twitter.com/)
+- [Twitter](https://twitter.com/hirtjulian09)
+- [Discord](https://discord.com/julianseleven)
 
-**Ask me if you can!**
 ---
 ![Ask me picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwEGm0k5WxhZMJD8XZZEv221aOPoJFpIH_0A&usqp=CAU)
