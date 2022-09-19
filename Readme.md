@@ -25,9 +25,8 @@ I´m currently learning Web Development at NeueFische Bootcamp. Nice to meet you
 * Borussia Dortmund 09 
 
 **How to reach me?**
-- [Instagram](https://instagram.com/julianhrt)
-- [Twitter](https://twitter.com/hirtjulian09)
-- [Discord](https://discord.com/julianseleven)
+-  [Instagram](https://www.instagram.com/julian.hrt/)
+-  [Twitter](https://twitter.com/hirtjulian09)
 
 ---
 ![Ask me picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwEGm0k5WxhZMJD8XZZEv221aOPoJFpIH_0A&usqp=CAU)
