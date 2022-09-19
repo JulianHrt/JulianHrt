@@ -1,6 +1,6 @@
 # Aloha, guys! 🦩
 
-My name is Julian. I´m based in the middle of germany. I work for the @AOKPLUS as a Perfomancemanager. 
+My name is Julian. I´m based in the middle of germany. I work at AOKPLUS as a Perfomancemanager. 
 I´m currently learning Web Development at NeueFische Bootcamp. Nice to meet you! 
 
 ## About me
@@ -31,3 +31,5 @@ I´m currently learning Web Development at NeueFische Bootcamp. Nice to meet you
 
 ---
 ![Ask me picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwEGm0k5WxhZMJD8XZZEv221aOPoJFpIH_0A&usqp=CAU)
+
+
