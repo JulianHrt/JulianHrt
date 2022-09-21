@@ -2,7 +2,7 @@
 
 ## About me
 My name is Julian. I´m based in the middle of germany. I work at AOKPLUS as a Perfomancemanager. 
-I´m currently learning Web Development at NeueFische Bootcamp. Ask me if there is something you like to know. I´m interested in learning more about 🐍 Python, :coffee: Java and ⛓️ Blockchain
+I´m currently learning Web Development at <img src="https://cdn-icons-png.flaticon.com/512/811/811600.png" width="5px"> NeueFische Bootcamp. Ask me if there is something you like to know. I´m interested in learning more about 🐍 Python, :coffee: Java and ⛓️ Blockchain.
 Nice to meet you! 🙋‍♂️
 
 **When i´m not working:**
