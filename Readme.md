@@ -4,14 +4,6 @@
 Hey! My name is Julian.I´m based in the middle of germany. If you looking for a pragmatic guy with fresh ideas - then i be your Dev! I love the challenge and always look for a way to make things better. Ask me if there is something you like to know. I´m interested in learning more about 🐍 Python, :coffee: Java and ⛓️ Blockchain.
 Nice to meet you! 🙋‍♂️
 
-## ✈️ When i´m not working:
-* coding small projects and try new stuff
-* Build with Raspi 
-* gaming 
-* DJing
-* Travel
-
-
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JulianHirt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Julian.Hrt) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HirtJulian09)
