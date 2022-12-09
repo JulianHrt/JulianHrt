@@ -13,12 +13,15 @@ Nice to meet you! 🙋‍♂️
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=JulianHrt&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true) 
-[![](https://visitcount.itsvg.in/api?id=JulianHrt&icon=2&color=12)](https://visitcount.itsvg.in)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianHrt&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JulianHirt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Julian.Hrt) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HirtJulian09)
+
+
+
+[![](https://visitcount.itsvg.in/api?id=JulianHrt&icon=2&color=12)](https://visitcount.itsvg.in)
 
 
 
