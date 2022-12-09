@@ -1,7 +1,7 @@
-# Aloha, guys! 🦩
+# Hey guys! 
 
 ## About me:
-Hey! My name is Julian.I´m based in the middle of germany. If you looking for a pragmatic guy with fresh ideas - then i be your Dev! I love the challenge and always look for a way to make things better. Ask me if there is something you like to know. I´m interested in learning more about 🐍 Python, :coffee: Java, ⛓️ Blockchain and TypeScript
+My name is Julian.I´m based in the middle of germany. If you looking for a pragmatic guy with fresh ideas - then i be your Dev! I love the challenge and always look for a way to make things better. Ask me if there is something you like to know. I´m interested in learning more about 🐍 Python, :coffee: Java, ⛓️ Blockchain and TypeScript
 Nice to meet you! 🙋‍♂️
 
 ## 🌐 Socials:
